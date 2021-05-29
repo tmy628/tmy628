@@ -1,5 +1,7 @@
 # Profile
 
+[![](https://raw.githubusercontent.com/tmy628/tmy628/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tmy628/tmy628/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tmy628/tmy628/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!--
 **tmy628/tmy628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
