@@ -12,7 +12,7 @@
 |2017年4月 ~ 2018年1月|総合設備工事会社　一般内線工事|
 |2018年3月 ~ 2021年3月|半導体製造工場　装置の保守・保全|
 |2021年4月 ~ 2021年7月|プログラミングスクール DMM WebCamp|
-|2021年8月 ~|転職活動中|
+|2021年8月 ~|就職活動中|
 
 <!--
 **tmy628/tmy628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
